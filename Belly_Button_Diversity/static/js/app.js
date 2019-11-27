@@ -52,6 +52,7 @@ function buildCharts(sample) {
         size: sample_values,
         opacity: 0.5,
         color: otu_ids,
+        colorscale: "Jet"
       }
     };
 
